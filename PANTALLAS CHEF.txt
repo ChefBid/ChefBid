@@ -1,0 +1,28 @@
+1. LOGIN/REGISTRO
+   - Email + contraseña
+   - Datos del negocio: nombre, dirección, teléfono
+   - Fotos de platos (upload múltiple)
+   - Horarios de disponibilidad
+
+2. DASHBOARD
+   - Pedidos del día (pendientes, en preparación, listos)
+   - Ganancias del día/semana/mes
+   - Rating promedio
+   - Botón "Publicar menú del día"
+
+3. GESTIONAR MENÚ
+   - Agregar/editar platos (foto, nombre, descripción, precio, tiempo prep)
+   - Activar/desactivar platos (si se agotan)
+   - Menú del día (destacado)
+
+4. DETALLE DE PEDIDO
+   - Productos solicitados
+   - Nombre del cliente
+   - Hora de recogida
+   - Método de pago
+   - Botones: "Aceptar" → "Preparando" → "Listo para recoger"
+
+5. PERFIL CHEF
+   - Editar información del negocio
+   - Ver estadísticas
+   - Configuración de horarios

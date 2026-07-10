@@ -1,0 +1,34 @@
+1. LOGIN/REGISTRO
+   - Email + contraseña (o Google/Apple sign-in)
+   - Teléfono (para notificaciones)
+   - Dirección principal (para calcular distancia a chefs)
+
+2. HOME / EXPLORAR
+   - Lista de chefs cercanos (ordenados por distancia)
+   - Filtros: tipo de comida, precio, tiempo de preparación
+   - Cada chef muestra: foto, nombre, distancia, rating, plato destacado
+
+3. PERFIL DEL CHEF
+   - Foto del chef + bio corta
+   - Menú del día (con fotos, precios, descripción)
+   - Horarios disponibles
+   - Tiempo estimado de preparación
+   - Botón "Pedir"
+
+4. CARRITO / CHECKOUT
+   - Productos seleccionados
+   - Subtotal + comisión de la app
+   - Método de pago (Nequi/Yappy/efectivo al recoger)
+   - Hora de recogida estimada
+   - Botón "Confirmar pedido"
+
+5. MIS PEDIDOS
+   - Estado del pedido: Pendiente → Preparando → Listo para recoger
+   - Código QR o número de pedido para mostrar al chef
+   - Botón "Contactar chef" (WhatsApp directo)
+
+6. PERFIL USUARIO
+   - Datos personales
+   - Direcciones guardadas
+   - Historial de pedidos
+   - Métodos de pago guardados

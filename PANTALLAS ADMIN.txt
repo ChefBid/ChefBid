@@ -1,0 +1,15 @@
+1. DASHBOARD GENERAL
+   - Total de chefs activos
+   - Total de pedidos hoy
+   - Ingresos totales + comisión
+   - Gráficas de crecimiento
+
+2. GESTIÓN DE CHEFS
+   - Lista de chefs (aprobados / pendientes)
+   - Aprobar/rechazar nuevos chefs
+   - Ver rendimiento de cada chef
+
+3. GESTIÓN DE PEDIDOS
+   - Todos los pedidos (filtrar por estado, fecha, chef)
+   - Resolver disputas
+   - Ver detalles de pagos
